@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{3EEF0C47-F0B5-4B20-868B-97635DE8AB33}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InfinityCrest", "InfinityCrest\InfinityCrest.vcxproj", "{C6B11D2A-A39B-46AC-971D-75653C6A8722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B11D2A-A39B-46AC-971D-75653C6A8722}.Debug|x64.ActiveCfg = Debug|x64
+		{C6B11D2A-A39B-46AC-971D-75653C6A8722}.Debug|x64.Build.0 = Debug|x64
+		{C6B11D2A-A39B-46AC-971D-75653C6A8722}.Release|x64.ActiveCfg = Release|x64
+		{C6B11D2A-A39B-46AC-971D-75653C6A8722}.Release|x64.Build.0 = Release|x64
+		{3EEF0C47-F0B5-4B20-868B-97635DE8AB33}.Debug|x64.ActiveCfg = Debug|x64
+		{3EEF0C47-F0B5-4B20-868B-97635DE8AB33}.Debug|x64.Build.0 = Debug|x64
+		{3EEF0C47-F0B5-4B20-868B-97635DE8AB33}.Release|x64.ActiveCfg = Release|x64
+		{3EEF0C47-F0B5-4B20-868B-97635DE8AB33}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4C52B7C-4E02-4330-BFD5-B7902141EC0B}
+	EndGlobalSection
+EndGlobal
